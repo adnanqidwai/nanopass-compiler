@@ -1,17 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ycm7-Tkm)
-## Homework instructions
-
-For your homework exercises, you will be expected to implement various
-compiler passes. It will ultimately be up to you how exactly to do
-this, but for the first assignment you are given code templates in
-`compiler.rkt` to fill out.
-
-Before each assignment (and when told to by the instructor), you may need to update
-this code by pulling updates from GitHub by running this command from inside the folder:
-
-```
-   git pull
-```
+My copy of the assignment : Nanopass compiler for Racket
+---
 
 As you fill out the functions in `compiler.rkt`, tests are run with the
 `run-tests.rkt` module. You can run these tests either from the command
