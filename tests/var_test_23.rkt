@@ -1,0 +1,7 @@
+(let ([a 42])
+    (let ([b a])
+        (let ([c b])
+            (let ([d c])
+                (let ([e d])
+                    (let ([f e])
+                        (+ (+ (+ (+ (+ a b) c) d) e) f)))))))
